@@ -10,6 +10,7 @@
 
 ![JkWeschnfelder GitHub stats](https://github-readme-stats.vercel.app/api?username=JkWeschenfelder&show_icons=true&theme=dracula)
 
+
 ## Tecnologias que eu uso no meu dia como Font-End
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JkWeschenfelder&hide_progress=true&theme=dracula)
 
@@ -23,6 +24,7 @@
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   
 </div><br/>
+
 
 ## Tecnologias que eu uso no meu dia como designer
 
