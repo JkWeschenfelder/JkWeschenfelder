@@ -1,6 +1,6 @@
 
 ## Oi Eu sou a Jake!
-🖌️  designer Grafico com 8 anos de Experiência<br/>
+🖌️  Designer Grafico com 8 anos de Experiência<br/>
 🖌️  UX/UI Designer com 2 anos de experiência<br/>
 🖥️ Desenvolvedora Front-End com 1 ano e 5 meses de experiência<br/>
 
