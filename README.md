@@ -2,7 +2,7 @@
 ## Oi Eu sou a Jake!
 🖌️  Designer Grafico com 8 anos de Experiência<br/>
 🖌️  UX/UI Designer com 2 anos de experiência<br/>
-🖥️ Desenvolvedora Front-End com 1 ano e 5 meses de experiência<br/>
+🖥️ Desenvolvedora Front-End com anos de experiência<br/>
 
 [![Linekdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakeline-w-8b9729196/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jakelinweschen)
