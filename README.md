@@ -8,11 +8,11 @@
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jakelinweschen)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jk_weschenfelder/)
 
-![JkWeschnfelder GitHub stats](https://github-readme-stats.vercel.app/api?username=JkWeschenfelder&show_icons=true&theme=dracula)
+![JkWeschnfelder GitHub stats](https://github-readme-stats.vercel.app/api?username=JkWeschenfelder&show_icons=true&theme=dark)
 
 
 ## Tecnologias que eu uso no meu dia como Font-End
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JkWeschenfelder&hide_progress=true&theme=dracula)
+![JkWeschenfelder](https://github-readme-stats.vercel.app/api/top-langs/?username=JkWeschenfelder&hide_progress=true&theme=dark)
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
