@@ -9,9 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jk_weschenfelder/)
 
 
-
 </div>
-
 
 ## Tecnologias que eu uso no meu dia como Font-End
 
