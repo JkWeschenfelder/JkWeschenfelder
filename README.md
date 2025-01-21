@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jk_weschenfelder/)
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JkWeschenfelder&theme=github-dark&hide_border=verdadeiro&short_numbers=falso" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JkWeschenfelder&theme=github-dark&hide_border=verdadeiro&short_numbers=falso" alt="GitHub Streak" /></a>
 
 
 </div>
@@ -43,6 +43,8 @@
 
 </div><br/>
 
+
+
 ## Eu também uso:
 
 <div style="display: inline_block">
@@ -51,3 +53,9 @@
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
  </div><br/>
+
+<div>
+
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JkWeschenfelder&theme=github-dark&hide_border=verdadeiro&short_numbers=falso" alt="GitHub Streak" /></a>
+ </div><br/>
+ 
