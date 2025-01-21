@@ -54,8 +54,4 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
  </div><br/>
 
-<div>
 
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JkWeschenfelder&theme=github-dark&hide_border=verdadeiro&short_numbers=falso" alt="GitHub Streak" /></a>
- </div><br/>
- 
