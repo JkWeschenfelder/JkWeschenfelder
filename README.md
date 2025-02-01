@@ -16,6 +16,9 @@
 
 ## Tecnologias que eu uso no meu dia como Font-End
 
+<a href= "https://github-readme-stats.vercel.app/api/top-langs/?JkWeschenfelder={JkWeschenfelder}&theme=blue-green"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?JkWeschenfelder={JkWeschenfelderr}&theme=blue-green">
+</a>
+
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
