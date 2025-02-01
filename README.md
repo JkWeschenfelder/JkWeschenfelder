@@ -15,7 +15,7 @@
 
 ## Tecnologias que eu uso no meu dia como Font-End
 
-![JkWeschenfelder](https://github-readme-stats.vercel.app/api/top-langs/?username=JkWeschenfelder&show_layout=compact_icons=true&theme=transparent)
+![JkWeschenfelder](https://github-readme-stats.vercel.app/api/top-langs/?username=JkWeschenfelder&show&hide_progress=true_layout=compact_icons=true&theme=transparent)
 
 
 <div style="display: inline_block">
